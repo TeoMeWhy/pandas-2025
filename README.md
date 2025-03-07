@@ -5,6 +5,7 @@ Curso renovado de Pandas realizado ao vivo de form gratuita, com gravação disp
 ## Pré-requisito
 
 - Ter Python instalado. Sugestão de vídeo para instalação, [clique aqui](https://youtu.be/OeKzVjiiRm4?si=PT0v4LwNE9SUL-2m).
+- Python Básico: sintaxe da linguagem e lógica de programação. [Conheça mais aqui](https://www.youtube.com/playlist?list=PLvlkVRRKOYFSpRkqnR0p2A-eaVlpLnN3D).
 
 ## Material de apoio
 
